@@ -1,0 +1,15 @@
+# PhpStorm
+.idea
+
+# Backup Workbench
+mysqljoin2019.mwb.bak
+
+# Consignes
+# consignes.sql
+
+# Réponses
+reponses.sql
+
+# Result
+/resultats/*
+
